@@ -5,3 +5,4 @@ It's necessary to have the pandas module installed and it's dependencies and the
 
 Update log:
 	Creation of file - 07/11/2022 9:47:06
+	Added comments - 09/11/2022 9:11:48
