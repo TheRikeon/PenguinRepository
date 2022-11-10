@@ -3,7 +3,7 @@ import numpy as np
 from palmerpenguins import load_penguins
 
 penguins = load_penguins()
-print(penguins.shape[0]) #miramos la primera posición de shape para ver el número de observaciones
+print(penguins.shape) #miramos la cantidad de observaciones y características
 print('-'*30,end='\n \n') #separador del output para tener mayor claredad, el \n \n incluye una línea vacía extra respecto al valor por defecto también por claredad
 print(penguins.columns) #miramos los nombres de las columnas
 print('-'*30,end='\n \n')
