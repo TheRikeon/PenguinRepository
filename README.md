@@ -6,8 +6,8 @@ It's necessary to have the pandas module installed and it's dependencies and the
 
 Update log:
 
-	[tab][space]Creation of file - 07/11/2022 9:47
+	Creation of file - 07/11/2022 9:47
 	
-	[tab][space]Added comments - 09/11/2022 9:11
+	Added comments - 09/11/2022 9:11
 
-	[tab][space]Fixed an error and fixed the readme . 10/11/2022 12:49
+	Fixed an error and fixed the readme . 10/11/2022 12:49
