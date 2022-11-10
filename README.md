@@ -10,4 +10,4 @@ Update log:
 	
 	Added comments - 09/11/2022 9:11
 
-	Fixed an error and fixed the readme . 10/11/2022 12:49
+	Fixed an error and fixed the readme - 10/11/2022 12:49
